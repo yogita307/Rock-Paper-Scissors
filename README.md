@@ -1,1 +1,1 @@
-<p> Implemented Rock , Paper and Scissors gamw with Python
+<p> Implemented Rock , Paper and Scissors game with Python
